@@ -1,3 +1,3 @@
-## how to isntall
+## how to install
 
 **run:** ./setup.sh
